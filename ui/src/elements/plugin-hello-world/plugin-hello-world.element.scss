@@ -1,0 +1,7 @@
+@import '../../styles/common';
+
+:host {
+    display: block;
+    height: 100%;
+    font-size: var(--flow-font-size-md);
+}
